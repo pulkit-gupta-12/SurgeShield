@@ -1,0 +1,13 @@
+# HC-05 SurgeShield Backend Dependencies
+# Install: pip install -r requirements.txt
+
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+statsmodels>=0.14
+pytest>=7.0
+httpx>=0.24
