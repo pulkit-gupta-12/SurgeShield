@@ -1,2 +1,13 @@
 node_modules/
+
 .env
+.env.*
+
+__pycache__/
+*.py[cod]
+
+walkthrough.md
+implementation_plan.md
+
+dist/
+*.log
