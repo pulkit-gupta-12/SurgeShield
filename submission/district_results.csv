@@ -1,0 +1,13 @@
+district,total_forecast,total_actual,total_allocation,total_unmet,service_utility,forecast_error,risk_status
+D0,614,603,104,157,0.7396,7.17,Surge Detected
+D1,1103,1084,70,336,0.69,6.17,Deficit Protected
+D2,1112,1172,0,348,0.7031,24.33,Surge Detected
+D3,583,632,0,35,0.9446,8.17,Surge Detected
+D4,657,658,11,125,0.81,3.83,Deficit Protected
+D5,1077,1081,27,286,0.7354,7.33,Surge Detected
+D6,725,749,5,168,0.7757,6.0,Surge Detected
+D7,519,588,0,77,0.869,12.83,Surge Detected
+D8,684,695,0,37,0.9468,8.83,Surge Detected
+D9,1212,1278,36,438,0.6573,21.33,Surge Detected
+D10,634,649,1,162,0.7504,6.17,Surge Detected
+D11,912,904,106,288,0.6814,8.67,Surge Detected
