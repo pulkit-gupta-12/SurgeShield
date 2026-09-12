@@ -11,3 +11,6 @@ implementation_plan.md
 
 dist/
 *.log
+
+frontend/dist/
+frontend/*.tsbuildinfo
