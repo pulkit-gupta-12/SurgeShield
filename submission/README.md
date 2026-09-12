@@ -40,6 +40,12 @@ The `submission/` directory contains exactly four official deliverables:
 4. **`README.md`**:
    - This submission guide and execution manual.
 
+5. **`notebooks/`**:
+   - `01_data_generation.ipynb`: Data generator, district parameters, capacity deficits, and surge injection.
+   - `02_forecasting.ipynb`: Harmonic regression, rolling-origin cross-validation, and 90% uncertainty intervals.
+   - `03_allocation.ipynb`: Constrained resource allocation, marginal benefits, and minimax fairness optimization.
+   - `04_evaluation.ipynb`: Sequential evaluation simulation, official 100-pt scorecard, and 20-seed robustness.
+
 ---
 
 ## Verified Evaluation & Robustness Benchmarks
